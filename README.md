@@ -1,8 +1,5 @@
-![86dc3bea-7f98-43e2-8a84-bd4540f3e4eb](https://github.com/BT1000/BT1000/assets/109650859/05fa67dc-08fc-4a99-a878-e7359e8edd40)
+[!MasterHead]![86dc3bea-7f98-43e2-8a84-bd4540f3e4eb](https://github.com/BT1000/BT1000/assets/109650859/05fa67dc-08fc-4a99-a878-e7359e8edd40)
 
-
-
-[!MasterHead](https://github.com/BT1000/BT1000/blob/main/86dc3bea-7f98-43e2-8a84-bd4540f3e4eb.gif)
 <h1 align=
 "center">
   Hi 👋, I'm Flame Wing</h1>
